@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="box" bindtouchstart="press" bindtouchend="pressend">
+    <image src="{{imgsrc}}" alt="11"/>
+    <image src="./image/main.png"/>
+  </view>
+</view>
